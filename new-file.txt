@@ -1,5 +1,0 @@
-This line is added in new-file of master  branch
-another line in here!!
-
-This file will now gonna be no longer ignored by git
-yes, its now visible in the remote gitHub repo
